@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/pramod/Documents/AR/Google/android-vision/visionSamples/barcode-reader/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="/Users/pramod/Documents/AR/Google/android-vision/visionSamples/barcode-reader/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.0_6070554ce61ac2d4674095abd312a36172cc01e4.jar" />
+    </item>
+    <item
+        jar="/Users/pramod/Documents/AR/Google/android-vision/visionSamples/barcode-reader/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="/Users/pramod/Documents/AR/Google/android-vision/visionSamples/barcode-reader/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_055980daa3762609f56fe04da6dbd9b578696f30.jar" />
+    </item>
+    <item
+        jar="/Users/pramod/Documents/AR/Google/android-vision/visionSamples/barcode-reader/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="/Users/pramod/Documents/AR/Google/android-vision/visionSamples/barcode-reader/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.0_0890ca4203b8d5f1827bc91e6e2b999892163973.jar" />
+    </item>
+    <item
+        jar="/Users/pramod/Documents/AR/Google/android-vision/visionSamples/barcode-reader/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="/Users/pramod/Documents/AR/Google/android-vision/visionSamples/barcode-reader/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.0_061930df1a3d77b130b606385ce60058d80405cd.jar" />
+    </item>
+    <item
+        jar="/Users/pramod/Documents/AR/Google/android-vision/visionSamples/barcode-reader/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="618485fef3ebe12127f7622abbc9b5b39057b5c2">
+        <dex dex="/Users/pramod/Documents/AR/Google/android-vision/visionSamples/barcode-reader/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-9.4.0_0391d5892a633a4a72f6b01d1b652bd79aad9ab4.jar" />
+    </item>
+    <item
+        jar="/Users/pramod/Documents/AR/Google/android-vision/visionSamples/barcode-reader/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="/Users/pramod/Documents/AR/Google/android-vision/visionSamples/barcode-reader/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_7e46811e4f3dc7e538ee0498a0db0d356464b925.jar" />
+    </item>
+    <item
+        jar="/Users/pramod/Documents/AR/Google/android-vision/visionSamples/barcode-reader/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="8a36d229011e75f0caef408e1adf0d3fd4d94e02">
+        <dex dex="/Users/pramod/Documents/AR/Google/android-vision/visionSamples/barcode-reader/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-9.4.0_90e5c0326aca824e1d91fb87aa3e03fbe35046db.jar" />
+    </item>
+    <item
+        jar="/Users/pramod/Documents/AR/Google/android-vision/visionSamples/barcode-reader/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="670df81539ab71918d49b186598b7eff08ef6563">
+        <dex dex="/Users/pramod/Documents/AR/Google/android-vision/visionSamples/barcode-reader/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-vision-9.4.0_a506172660756b8f4d082056a0517b7c3437017f.jar" />
+    </item>
+    <item
+        jar="/Users/pramod/Documents/AR/Google/android-vision/visionSamples/barcode-reader/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="/Users/pramod/Documents/AR/Google/android-vision/visionSamples/barcode-reader/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.0_af90313c886ff2835115972a04fc6cccad7a6a1d.jar" />
+    </item>
+    <item
+        jar="/Users/pramod/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.0/support-annotations-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="/Users/pramod/Documents/AR/Google/android-vision/visionSamples/barcode-reader/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.0_15d42fb405d6a229dbae1c072108bd9445de3ccf.jar" />
+    </item>
+    <item
+        jar="/Users/pramod/Documents/AR/Google/android-vision/visionSamples/barcode-reader/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="/Users/pramod/Documents/AR/Google/android-vision/visionSamples/barcode-reader/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_c00a840ecdcdd146852583fbb1e8719ebcbf684b.jar" />
+    </item>
+    <item
+        jar="/Users/pramod/Documents/AR/Google/android-vision/visionSamples/barcode-reader/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="/Users/pramod/Documents/AR/Google/android-vision/visionSamples/barcode-reader/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.0_854483d7967c6171e52becccbfdde3c352b1fe5b.jar" />
+    </item>
+    <item
+        jar="/Users/pramod/Documents/AR/Google/android-vision/visionSamples/barcode-reader/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="/Users/pramod/Documents/AR/Google/android-vision/visionSamples/barcode-reader/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.0_2d18b0dcabefd7acdc42fbf978a25efdec0bd298.jar" />
+    </item>
+    <item
+        jar="/Users/pramod/Documents/AR/Google/android-vision/visionSamples/barcode-reader/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="/Users/pramod/Documents/AR/Google/android-vision/visionSamples/barcode-reader/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_1a3e4cd4b9d4bf6ff1087f8115ce83999e5c5ee7.jar" />
+    </item>
+    <item
+        jar="/Users/pramod/Documents/AR/Google/android-vision/visionSamples/barcode-reader/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="/Users/pramod/Documents/AR/Google/android-vision/visionSamples/barcode-reader/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.0_6f49d4cc1101d2ed8f1c93c60cb500f8461454ba.jar" />
+    </item>
+    <item
+        jar="/Users/pramod/Documents/AR/Google/android-vision/visionSamples/barcode-reader/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="c755536e5a100d9c76c8ea0b72f76c018f7a9de2">
+        <dex dex="/Users/pramod/Documents/AR/Google/android-vision/visionSamples/barcode-reader/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-24.2.0_6b1c9da0bc0af1c90051e9106499421b87c14d83.jar" />
+    </item>
+    <item
+        jar="/Users/pramod/Documents/AR/Google/android-vision/visionSamples/barcode-reader/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="/Users/pramod/Documents/AR/Google/android-vision/visionSamples/barcode-reader/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.0_b68693fce6cddba39bee8fe634eaa4c756805bab.jar" />
+    </item>
+    <item
+        jar="/Users/pramod/Documents/AR/Google/android-vision/visionSamples/barcode-reader/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="/Users/pramod/Documents/AR/Google/android-vision/visionSamples/barcode-reader/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_0a4bdedaeb5b88c2fa7aa171a7af0429adafc1bd.jar" />
+    </item>
+    <item
+        jar="/Users/pramod/Documents/AR/Google/android-vision/visionSamples/barcode-reader/app/build/intermediates/exploded-aar/com.android.support/design/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="23eb0d2998a782213b56168cbf23a0688b9111d9">
+        <dex dex="/Users/pramod/Documents/AR/Google/android-vision/visionSamples/barcode-reader/app/build/intermediates/pre-dexed/debug/com.android.support-design-24.2.0_d3b598c1a70927837bf513b28fa4e9c38ae7820c.jar" />
+    </item>
+    <item
+        jar="/Users/pramod/Documents/AR/Google/android-vision/visionSamples/barcode-reader/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="/Users/pramod/Documents/AR/Google/android-vision/visionSamples/barcode-reader/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.0_e61d8c4009dfef2f6fcabbb07c95d5dc8e9692aa.jar" />
+    </item>
+    <item
+        jar="/Users/pramod/Documents/AR/Google/android-vision/visionSamples/barcode-reader/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="3dee4ce5844d39d843d503fb8fe04e51e5bfffac">
+        <dex dex="/Users/pramod/Documents/AR/Google/android-vision/visionSamples/barcode-reader/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-9.4.0_df8bfab879019d27709bb99b03fe97d394dde37d.jar" />
+    </item>
+
+</items>

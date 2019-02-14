@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="snuggle_new" size="20.000000 26.763718" />
+    <ImageTarget name="wimpy_kid_001" size="20.000000 29.881914" />
+  </Tracking>
+</QCARConfig>

@@ -1,0 +1,343 @@
+Manifest-Version: 1.0
+Built-By: Generated-by-ADT
+Created-By: Android Gradle 2.3.0
+
+Name: assets/bin/Data/3b9925821c9bc4430ab30025736812e1
+SHA1-Digest: gC5SPwIl2AxYIJn4X51tHIW5kQ8=
+
+Name: assets/bin/Data/Managed/UnityEngine.PhysicsModule.dll
+SHA1-Digest: R7DWcmDgsVn+DDHAfnLMmpjKPCA=
+
+Name: assets/Vuforia/Pmd.dat
+SHA1-Digest: FW30vLKoTfFhfEhhXI3BWIz2c4Y=
+
+Name: assets/bin/Data/Managed/UnityEngine.UnityWebRequestTextureModule
+ .dll
+SHA1-Digest: vbBKJIK07xhAcDhervNbdUsjAg8=
+
+Name: assets/bin/Data/Managed/Vuforia.UnityExtensions.dll
+SHA1-Digest: fMUXj/Sj/h5IJCl5hijA5ODod7w=
+
+Name: assets/bin/Data/Managed/UnityEngine.UNETModule.dll
+SHA1-Digest: W7gE1BhOAo48Xi2HYi4Hv1vPJSw=
+
+Name: lib/x86/libVuforia.so
+SHA1-Digest: xj5MrecIFNJNWlW/pGhlR5oes4g=
+
+Name: assets/bin/Data/Managed/UnityEngine.ParticleSystemModule.dll
+SHA1-Digest: UZM84uGsGSycJTSK8TF5Uaqbras=
+
+Name: assets/bin/Data/Managed/UnityEngine.VideoModule.dll
+SHA1-Digest: RaAs3yi1sP/C32e3WvhzWFsS5eA=
+
+Name: assets/Vuforia/VuforiaMars_ModelTarget.dat
+SHA1-Digest: 5ECG6pgn5G60Jq2ocSTHM3PqBaA=
+
+Name: lib/armeabi-v7a/libVuforiaUnityPlayer.so
+SHA1-Digest: KmMswnUdeNr10BeyZERXWWFOrCM=
+
+Name: assets/bin/Data/Managed/UnityEngine.SpriteMaskModule.dll
+SHA1-Digest: BLOXZWTcDCK7Z0J2o7XVf1pOUVQ=
+
+Name: res/drawable-ldpi-v4/app_icon.png
+SHA1-Digest: PJ8HOqDlgSXQ3OtnuMJNRFy9+Fs=
+
+Name: assets/bin/Data/unity default resources
+SHA1-Digest: 2xYT+W8ART7iag5n6U3M3Ek543M=
+
+Name: res/drawable-hdpi-v4/app_icon.png
+SHA1-Digest: DifB2qoduQLz5qCZ+SHR3sR2Bzk=
+
+Name: assets/bin/Data/Managed/UnityEngine.StandardEvents.dll
+SHA1-Digest: 8n/vdYbuX1+j4Gcl2LcPkjw/lGI=
+
+Name: resources.arsc
+SHA1-Digest: ixxtKjbbYgdAuhOb7F5yOen4suc=
+
+Name: assets/bin/Data/Managed/UnityEngine.TilemapModule.dll
+SHA1-Digest: nfx122Y3fxPHzHV9ZscDB7Ma2Kc=
+
+Name: assets/bin/Data/Managed/UnityEngine.Timeline.dll
+SHA1-Digest: zaqRha6FXjPNoBtP7xSI8zQk6rw=
+
+Name: assets/bin/Data/Managed/UnityEngine.CoreModule.dll
+SHA1-Digest: 06jnLZ4oOePdSKi2vKsI/SslIew=
+
+Name: assets/Vuforia/VuforiaMars_Images.dat
+SHA1-Digest: /btgYMhBLvA58GymvioDDdbfxKE=
+
+Name: AndroidManifest.xml
+SHA1-Digest: 5Umh/C126YpekW5pGJFJE4Qe/Fk=
+
+Name: assets/bin/Data/Managed/UnityEngine.UI.dll
+SHA1-Digest: 0RWQFCxINRI3pC3aNgyPYqdt3Lk=
+
+Name: assets/bin/Data/Managed/UnityEngine.AssetBundleModule.dll
+SHA1-Digest: Bgoy0IsMa/f0VgAZSobxGwjUYD0=
+
+Name: assets/bin/Data/Managed/UnityEngine.CrashReportingModule.dll
+SHA1-Digest: +748Zif3F4U3uP265Xj8iThr9Os=
+
+Name: assets/bin/Data/Managed/UnityEngine.ScreenCaptureModule.dll
+SHA1-Digest: dm19g6VmwzDk6/sPcvP8VRUdHUI=
+
+Name: assets/bin/Data/Resources/unity_builtin_extra
+SHA1-Digest: 5QN6CPAy0Sbto2Vay2apQVAQhnY=
+
+Name: assets/bin/Data/boot.config
+SHA1-Digest: 6GfRNL0gO7BCrtWvHE6wvAAtDPY=
+
+Name: lib/armeabi-v7a/libmain.so
+SHA1-Digest: gRfIqC3lhoS03gt8JznFIPnVf30=
+
+Name: assets/bin/Data/Managed/UnityEngine.dll
+SHA1-Digest: 08y+LryeI7V1ylzVtrrB75jbAmo=
+
+Name: lib/x86/libVuforiaWrapper.so
+SHA1-Digest: fAAJ2put69znC+Mgw6W+yHsAef4=
+
+Name: assets/bin/Data/Managed/UnityEngine.VehiclesModule.dll
+SHA1-Digest: JwlVX7zZ8/I+821+I9X+LtFgOFc=
+
+Name: assets/bin/Data/Managed/UnityEngine.TextRenderingModule.dll
+SHA1-Digest: Iru4/idgUC75hPLBKaOf4AdeZi4=
+
+Name: assets/Vuforia/VuforiaMars_VuMark.dat
+SHA1-Digest: Qjjrw7DVn6uYgu0wPdt269AK7Bo=
+
+Name: assets/bin/Data/Managed/UnityEngine.UIModule.dll
+SHA1-Digest: ECIidRIO05CzLXXMdOHJ7VsWLHA=
+
+Name: assets/bin/Data/Managed/UnityEngine.UnityAnalyticsModule.dll
+SHA1-Digest: zf5iqsQzJ/LmbcxxW2kgmHLJOU8=
+
+Name: assets/Vuforia/VuforiaMars_Object_OT.xml
+SHA1-Digest: 0gwxzKKeEYNA8F6FFcf/npRvlkQ=
+
+Name: assets/bin/Data/Managed/UnityEngine.ImageConversionModule.dll
+SHA1-Digest: LiGcwpK2Y3gLliiAaE5Q+cdiq8Y=
+
+Name: assets/bin/Data/Managed/UnityEngine.Analytics.dll
+SHA1-Digest: 9P3RYS/1YJPK2pihI5Uc/MarX6s=
+
+Name: assets/bin/Data/Managed/System.dll
+SHA1-Digest: VFH4GsK9ZD13Y7cn/psdWYyzbd0=
+
+Name: lib/x86/libmono.so
+SHA1-Digest: Czxl/L/ePGKwpJJzVPHFvE7/kSE=
+
+Name: assets/bin/Data/Managed/UnityEngine.TerrainModule.dll
+SHA1-Digest: z48Su1G7MNOWrIsAp6ItZI4g45Y=
+
+Name: assets/bin/Data/5694691f309a24053893d9630c502aa1
+SHA1-Digest: ZM4IxSKKXtFIsD2wyt06yEplpVQ=
+
+Name: assets/bin/Data/Managed/UnityEngine.JSONSerializeModule.dll
+SHA1-Digest: PYEXAtAuRGJJZgLOt3aDmAJBvU0=
+
+Name: assets/Vuforia/Pmd.xml
+SHA1-Digest: KA6oCQZTMZw4qp9XMJaVCJ3iP1A=
+
+Name: res/drawable-xxxhdpi-v4/app_icon.png
+SHA1-Digest: o4DAV03FdR2xFbXhkW1q86czuIY=
+
+Name: assets/bin/Data/Managed/UnityEngine.WebModule.dll
+SHA1-Digest: QazS7KMTOahFhkqa4YxCFHSLG4w=
+
+Name: assets/bin/Data/Managed/UnityEngine.PerformanceReportingModule.d
+ ll
+SHA1-Digest: z4njDOt5nnBI19FOgmJX4WH5RgU=
+
+Name: assets/bin/Data/Managed/UnityEngine.UnityWebRequestModule.dll
+SHA1-Digest: SrmCPHTQkYpUxnBRZxobCOEY2d4=
+
+Name: assets/bin/Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll
+SHA1-Digest: vGelxDGBkPnA+1iZcQ/GCg9ASlY=
+
+Name: assets/Vuforia/VuforiaMars_ModelTarget.xml
+SHA1-Digest: rWPgDNJTKDBjmuqm0A+5kvUByxk=
+
+Name: assets/bin/Data/Managed/UnityEngine.VRModule.dll
+SHA1-Digest: saX21XKeb43x/3U4+960dLi6j7g=
+
+Name: assets/bin/Data/Managed/UnityEngine.Networking.dll
+SHA1-Digest: sp54hPKVYDwZwpKGo16gHDNHNO0=
+
+Name: assets/bin/Data/Managed/UnityEngine.AudioModule.dll
+SHA1-Digest: M4pOga2yrwtf5ulj4p//57cceok=
+
+Name: assets/bin/Data/Managed/UnityEngine.GameCenterModule.dll
+SHA1-Digest: gD0asehmj8dA1YkTxa84Cu+7A04=
+
+Name: assets/bin/Data/sharedassets0.assets.split6
+SHA1-Digest: l4x5+q4u7+lVsa3KvxDUHgiGAE4=
+
+Name: assets/bin/Data/sharedassets0.assets.split7
+SHA1-Digest: rBeLnZUxCdf3qx35iItTL+UwfhI=
+
+Name: assets/bin/Data/sharedassets0.assets.split8
+SHA1-Digest: ZPVyh75A8huWN/PeXi4htmY9JzU=
+
+Name: assets/bin/Data/Managed/UnityEngine.InputModule.dll
+SHA1-Digest: Vgon3UQ1lmdltDRoUbDExXZkcBw=
+
+Name: assets/bin/Data/sharedassets0.assets.split9
+SHA1-Digest: 6Cve4LxP9qIQXk0McoaTdwcfFtQ=
+
+Name: assets/bin/Data/Managed/UnityEngine.TerrainPhysicsModule.dll
+SHA1-Digest: wJPhDmpvi8mlm6uhX6jt/V80In0=
+
+Name: assets/bin/Data/Managed/UnityEngine.IMGUIModule.dll
+SHA1-Digest: I3NDQgkrYUtE1h9hiQT6VDyvitk=
+
+Name: assets/bin/Data/Managed/UnityEngine.AIModule.dll
+SHA1-Digest: GXxSQAX3y6sGDvsItddPhgBNze4=
+
+Name: assets/bin/Data/Managed/UnityEngine.UIElementsModule.dll
+SHA1-Digest: tHNqf+N06qEc1mFkSFaRVFO8OJE=
+
+Name: res/drawable-mdpi-v4/app_icon.png
+SHA1-Digest: C3QfkhEqHqKygjMHLPq8HnoKQ3Q=
+
+Name: assets/bin/Data/Managed/UnityEngine.AccessibilityModule.dll
+SHA1-Digest: OtDk4caRNUXFx5vclEK2DMXAgr0=
+
+Name: assets/bin/Data/Managed/UnityEngine.AnimationModule.dll
+SHA1-Digest: wLvc6SU20YR0YcUDqx8Z/g1Gtdo=
+
+Name: assets/bin/Data/globalgamemanagers.assets
+SHA1-Digest: HDEsPYNjBxNWV8zU3mKupCuVIio=
+
+Name: assets/bin/Data/sharedassets0.assets.split0
+SHA1-Digest: Bua8fyL0aCzea8TH7GhA/heqYtU=
+
+Name: assets/bin/Data/Managed/mscorlib.dll
+SHA1-Digest: /uvKRd/PIBnxvSDtavUMDgcFK+c=
+
+Name: assets/bin/Data/sharedassets0.assets.split1
+SHA1-Digest: fFAyQy3JiMRi6oEOis60j0Jrlzc=
+
+Name: lib/x86/libmain.so
+SHA1-Digest: hwWHOUdeKIe7wSuCJ+e5SqZJqak=
+
+Name: assets/bin/Data/sharedassets0.assets.split2
+SHA1-Digest: OMZNqGEsF5XXrMl5pX2NPrLrtps=
+
+Name: assets/Vuforia/VuforiaMars_Images.xml
+SHA1-Digest: pgNdGNhjx2PrISyLQB/zjmO8D/8=
+
+Name: assets/bin/Data/sharedassets0.assets.split3
+SHA1-Digest: Oy/1aPWR3GKI/89JcZpZGNPf2mY=
+
+Name: assets/bin/Data/Managed/UnityEngine.ParticlesLegacyModule.dll
+SHA1-Digest: YJh7dcA+4KTKCOuDUbrmabMVdKc=
+
+Name: assets/bin/Data/sharedassets0.assets.split4
+SHA1-Digest: Ux/pXT/KQMgEkU1q3Mr+g8mTOVA=
+
+Name: assets/bin/Data/sharedassets0.assets.split5
+SHA1-Digest: 5JfU43iHvLRFoShop7Bu5npJWG8=
+
+Name: assets/bin/Data/Managed/System.Core.dll
+SHA1-Digest: u1jCLgLA5DkB6rbmmjXTU+CORyI=
+
+Name: assets/bin/Data/Managed/UnityEngine.GridModule.dll
+SHA1-Digest: UWlrP7R5qGQyIlEAtR78/u1z2WM=
+
+Name: assets/bin/Data/Managed/UnityEngine.SpriteShapeModule.dll
+SHA1-Digest: YKLyxHUsUOrUiOaVjcxP1zwEaHk=
+
+Name: assets/bin/Data/Managed/UnityEngine.ClothModule.dll
+SHA1-Digest: GwgbE7bdz9zHikczGjaT/1D4Xzs=
+
+Name: assets/bin/Data/Managed/UnityEngine.SharedInternalsModule.dll
+SHA1-Digest: EC8G07K7VPir8E4WAJDBh1Q4my8=
+
+Name: lib/armeabi-v7a/libunity.so
+SHA1-Digest: Bd/TMGdSQLBID3K/Z48D9Lzryh4=
+
+Name: assets/bin/Data/Managed/UnityEngine.UnityConnectModule.dll
+SHA1-Digest: tGp4VVLPAZeyvOdFGXI8qvjagQA=
+
+Name: assets/bin/Data/sharedassets0.assets.split13
+SHA1-Digest: rCykVynhqS9bIoOXUdRaFRu8KqA=
+
+Name: assets/bin/Data/sharedassets0.assets.split14
+SHA1-Digest: D0hXtFnRUvc2uuFNf5Hj8hQvsEk=
+
+Name: assets/bin/Data/globalgamemanagers
+SHA1-Digest: XMhXCW5aDIbJ7BfhecZlclwsqog=
+
+Name: res/drawable-xxhdpi-v4/app_icon.png
+SHA1-Digest: BP2cOGesB+es83W7DmUJmuDD4zo=
+
+Name: lib/x86/libunity.so
+SHA1-Digest: 1SpLvKkPWCZUCCepDoxAjA4AwVc=
+
+Name: lib/armeabi-v7a/libmono.so
+SHA1-Digest: E0woAsQ5jSC8UGu+EL/dvemnEBs=
+
+Name: assets/bin/Data/Managed/UnityEngine.StyleSheetsModule.dll
+SHA1-Digest: PDY0PwEaUv03d+h1VFbTFNWo/HI=
+
+Name: assets/bin/Data/sharedassets0.assets.split11
+SHA1-Digest: cTRtXoBRH6x/f0N7+kSqBEJeXaU=
+
+Name: res/drawable-xhdpi-v4/app_icon.png
+SHA1-Digest: Iew5xAAJCR6lxc+H7u/zRZTFGAk=
+
+Name: assets/bin/Data/sharedassets0.assets.split12
+SHA1-Digest: eIzgp4zsJjmqMqhugONaY0ZqqfU=
+
+Name: lib/armeabi-v7a/libVuforia.so
+SHA1-Digest: dYmd3IE8OffWtrGM0jEXXzYjLbc=
+
+Name: assets/bin/Data/sharedassets0.assets.split10
+SHA1-Digest: P9TSkAH5koHq2PcljxhjDgqqnx0=
+
+Name: assets/bin/Data/Managed/UnityEngine.Physics2DModule.dll
+SHA1-Digest: M4BW3EUSQJIBi4/8TP+/46lSIno=
+
+Name: assets/bin/Data/level0
+SHA1-Digest: 207giAJJ0m8w3HIC8ZwGJ19qJGI=
+
+Name: assets/bin/Data/Managed/UnityEngine.SpatialTracking.dll
+SHA1-Digest: Kx5wd6zSGAzkzJS03SNg7SVF3uk=
+
+Name: assets/bin/Data/Managed/UnityEngine.ARModule.dll
+SHA1-Digest: ZLd5ZSoYigcyrklzddq9EVDsjpg=
+
+Name: assets/bin/Data/Managed/UnityEngine.UnityWebRequestAudioModule.d
+ ll
+SHA1-Digest: XX0p3R/vd6FRhu7am9EzZZrId3g=
+
+Name: lib/armeabi-v7a/libVuforiaWrapper.so
+SHA1-Digest: pTSgozexv6/RrjNGWgvdTZZdSjc=
+
+Name: lib/x86/libVuforiaUnityPlayer.so
+SHA1-Digest: 13uLdWTrzYq/kWmeE/nE2hOolS8=
+
+Name: res/drawable-xhdpi-v4/app_banner.png
+SHA1-Digest: aqv4ndS5je2XQWdMhG66+5fhv9I=
+
+Name: assets/Vuforia/VuforiaMars_VuMark.xml
+SHA1-Digest: 5qvnsaHie5ctH72UG8xj13OkqTc=
+
+Name: assets/bin/Data/Managed/Mono.Security.dll
+SHA1-Digest: l0Y+GmfCvJJzHBG8y8+l9UCtsU0=
+
+Name: assets/bin/Data/Managed/UnityEngine.DirectorModule.dll
+SHA1-Digest: zj75Jn6rfvetN8Lje5r6PJr1yZ0=
+
+Name: assets/Vuforia/VuforiaMars_Object_OT.dat
+SHA1-Digest: KPAlUiYhqdV4JFHv/kpR4V1VzuE=
+
+Name: assets/bin/Data/Managed/Assembly-CSharp.dll
+SHA1-Digest: eKr7XgBFFllql1jPHnBzo4EjYrE=
+
+Name: classes.dex
+SHA1-Digest: jKC8SUMJHGfEFUSYKB24tWn9Wzw=
+
+Name: assets/bin/Data/Managed/UnityEngine.WindModule.dll
+SHA1-Digest: CEVy2N+nWwyT/PJKoHfjozjr148=
+
